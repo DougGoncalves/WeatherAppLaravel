@@ -6,11 +6,8 @@ Weather App developed using Laravel 6.x, VueJS and Tailwind CSS. Two different A
 
 - [DarkSky API](https://darksky.net/dev).
 - [Algolia Places](https://community.algolia.com/places/).
-- [Skycons]() and [cache](http://darkskyapp.github.io/skycons/) for the icons and their animations.
 - [Tailwind CSS](https://tailwindcss.com/).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [Skycons](http://darkskyapp.github.io/skycons/).for the icons and their animations.
 
 ## License
 
