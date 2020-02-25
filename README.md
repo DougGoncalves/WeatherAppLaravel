@@ -1,4 +1,10 @@
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400">
+
+<video width="640" height="480" controls>
+  <source src="/video/captura.mov" type="video/mov">
+  
+</video>
+</p>
 
 ##  Weather App Laravel
 
@@ -7,7 +13,7 @@ Weather App developed using Laravel 6.x, VueJS and Tailwind CSS. Two different A
 - [DarkSky API](https://darksky.net/dev).
 - [Algolia Places](https://community.algolia.com/places/).
 - [Tailwind CSS](https://tailwindcss.com/).
-- [Skycons](http://darkskyapp.github.io/skycons/).for the icons and their animations.
+- [Skycons](http://darkskyapp.github.io/skycons/) for the icons and their animations.
 
 ## License
 
